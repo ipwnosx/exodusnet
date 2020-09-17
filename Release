@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm
+Codename: LowKey
+Components: main
+Date: Tue, 01 Sep 2020 02:50:51 +0000
+Description: Get Schwifty
+Label: 3xodus.tk
+Origin: 3XODUS
+Suite: v1
+Version: v1
+MD5Sum:
+ 7133e8dc1f1fecc29b45189a528b7d87           162433 Packages
+ 243634a5fed776254b762a6e0ae05b00            48009 Packages.bz2
+ f664e2f71123bdcc8056b19fd75539a5            57532 Packages.gz
+ ddad983bce419d1716e4eb26fba4c004            48948 Packages.xz
+ 18a8c9cf48657cb6263251ca449ca6f7            51002 Packages.zst
+ 7421ff6f2afc2768160961fffa40f264              180 Release
+SHA1:
+ f0c8190c68257bc2f4250d1f8efebda925779519           162433 Packages
+ dd248c1e74c912dd54895f0d3f99bb6842b22342            48009 Packages.bz2
+ d892e5b0c38ac46301869431d87beaf6109612b9            57532 Packages.gz
+ 1b9268ec0c5850cbb16bd0e6b5c777a1361243f5            48948 Packages.xz
+ c79ea44976a677aca5bec658072cd82c7c2afc3e            51002 Packages.zst
+ 63b9e63c15b74f6402967d4cb3aa28e9fd75dd99              180 Release
+SHA256:
+ 0528bae74ab1710f407b2f02611b4da0bf7bd9c58d92c3bc1d3c9288a830da48           162433 Packages
+ 4adf34f3bb2f7d1726763d367125bfabb59b9675cb878804bab4ad8a8087c6dc            48009 Packages.bz2
+ eaee8f18a980431c2802dc74d15300362feb48d0463a6b7892d58d10479cbb58            57532 Packages.gz
+ e9de336e70cdba771a095920dec0633a77a6836f6e9fe73235a0f633d6775aa3            48948 Packages.xz
+ 238cd436a02bc1fa732fdd909326208676dca31beed36f46fca3dfe636ba03d0            51002 Packages.zst
+ 396b75307c117fb5e2c483ed0d2e7d7a956d4d56c41ee5cd43d6a12e7f40ef46              180 Release
+SHA512:
+ 365d614271c63573ea73bb2751a0e56e62c8d56ab5b6b6ecbcc2222c86e0c600148d42cc27d2a3f6db5c9fe38cdbe9e8f4a68370368f28da97f148a442d5f598           162433 Packages
+ 3770cdb4a4df0a865d3996a4f26c73fe737ba62a7813a45ea56192734810526b9fde08eaf9122eee44f8f1b15862a91a36553c482fcb5514b51688b2aeea6c78            48009 Packages.bz2
+ dc09cb4dc4bdbf8e181547ac80e6390579a6f3c6e4ef109c424d2ee78dc57320bc89d9fb9091455a5129205b3e44adb46c95a4ec75bfcbf2d6c169f2705f9a4e            57532 Packages.gz
+ c62fcc33c184c5b607f091cb0272c630abc2719902061237a2a84aacbbf9dc47519b0e2520066e10ead9ba6c96710e03a9f1ba8f5e7c557dd336cbe7f7189107            48948 Packages.xz
+ bf1a9a4427fe745feff30c21d240b51bec4eccc671dd45cb1aee2df4a5ecf7ef2199f84e8f36162e3f149b1f65b0e66212c4d56b6617df1da485a2c3a195ebe3            51002 Packages.zst
+ b92cc24aa53458d2c69f646a6a31c3e53b58010031b67d0fe91dbd46de93156c08013a8a923c2360632b5851313131b09743f922a5a4d4cdfdbbe0717df3560c              180 Release
